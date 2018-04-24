@@ -1,0 +1,95 @@
+#logo {
+  font-size: 40px;
+  font-family: lobster;
+  padding-left: 100px;
+  padding-right: 50px;
+  color: #fff;
+}
+
+#img {
+  position: relative;
+}
+
+.container-fluid {
+  margin-top: 10px;
+}
+
+input {
+  width: 840px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  margin-top: 20px;
+}
+
+#search {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: -30px;
+  background-color: yellow;
+}
+
+.navbar {
+  background-color: #722872 !important;
+}
+
+.nav.navbar-nav {
+  font-size: 16px;
+  margin-left: 240px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+#full {
+  width: 1300px;
+  padding-top: 25px;
+}
+
+#mobile {
+  width: 420px;
+  height: 260px;
+  padding-left: 15px;
+  padding-top: 40px;
+}
+
+#tv {
+  width: 420px;
+  height: 260px;
+  padding-left: 15px;
+  padding-top: 40px;
+}
+
+#lap1 {
+  width: 500px;
+  height: 250px;
+}
+
+#submit {
+  font-size: 20px;
+}
+
+#footer {
+  background-color: #722872;
+  height: 180px;
+  color: #fff;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 30px;
+}
+
+#made {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+#social {
+  font-size: 20px;
+}
